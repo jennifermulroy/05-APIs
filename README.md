@@ -45,3 +45,12 @@ The spending per month over the last three months has been consistent.
 
 
 ![Bar Chart](/Images/BarChart_BudgetAnalysis.png)
+
+
+### Retirement Analysis 
+
+![Chart](/Images/Portfolio_Simulations.png)
+
+![Chart](/Images/confidence_interval.png)
+
+![Chart](/Images/Portfolio_performance_overtime.png)
