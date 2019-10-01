@@ -55,15 +55,17 @@ In the retirement analysis, a portfolio made up of 60% stocks represented by tic
 
 ![Chart](/Images/Portfolio_Simulations.png)
 
-The ending cumulative returns from the Monte Carlo simulation produced 90% confidence intervals between 2.56 and 10.61, as shown in the bar chart below. 
+The ending cumulative returns from the Monte Carlo simulation produced 90% confidence intervals between 2.42 and 11.04, as shown in the bar chart below. 
 
 ![Chart](/Images/confidence_interval.png)
 
-The expected cumulative returns at 30 years was also analyzed by percentile.  The expected cumulative returns were 2.94 at the 10th percentile, 5.10 at the 50th percentile, and 8.88 at the 90th percentile.   Given an initial investment of $20,000, the expected portfolio return in dollars at the 10th percentile was $78,973, at the 50th percentile was $122,015, and at the 90th percentile was $197,657. 
+The expected cumulative returns at 30 years was also analyzed by percentile.  The expected cumulative returns were 3.06 at the 10th percentile, 5.23 at the 50th percentile, and 9.13 at the 90th percentile.   Given an initial investment of $20,000, the expected portfolio return in dollars at the 10th percentile was $81,333.33, at the 50th percentile was $124,738.32, and at the 90th percentile was $202,687.83. 
 
-A 4% withdraw rate from the retirement portfolio at the 10th percentile is $3,158, that does not exceed the projected annual income of $6,085 projected annual income from the Plaid analysis and therefore, would not be enough to reach the desired retirement goals. But given a higher initial investment of $50,000, the expected portfolio return in dollars at the 10th percentile is $197,432, at the 50th percentile is $305,038, and at the 90th percentile is $494,144.  A 4% withdraw rate from the retirement portfolio at the 10th percentile is $7,897, and that does exceed the projected annual income helping to achieve the desired retirement savings. 
+A 4% withdraw rate from the retirement portfolio at the 10th percentile is $3,253.33, that does not exceed the projected annual income of $6,085 projected annual income from the Plaid analysis and therefore, would not be enough to reach the desired retirement goals. But given a higher initial investment of $50,000, the expected portfolio return in dollars at the 10th percentile is $203,333.33 at the 50th percentile is $311,845.80, and at the 90th percentile is $366,3408.94. A 4% withdraw rate from the retirement portfolio at the 10th percentile is $8,133.33, and that does exceed the projected annual income helping to achieve the desired retirement savings. 
 
-With an initial investment of $50,000 at the 5th, 50th, and 95th percentiles, the chart below illustrates the cumulative portfolio returns over the life of the investment.
+In summary, given a balanced portfolio of stocks and bonds over a 30 year time period at an initial investment of $50,000 provides a greater likelihood of reaching the retirement income stream goals.
+
+The chart below illustrates the cumulative portfolio returns at the 5th, 50th, and 95th percentiles and helps to provide a visual of the portfolio's potential value at each year over the course of the 30 years to retirement. 
 
 ![Chart](/Images/Portfolio_performance_overtime.png)
 
