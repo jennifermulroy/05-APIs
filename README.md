@@ -1,6 +1,6 @@
 ## Financial Report
 
-The financial report has two parts, a budget analysis and a retirement analysis. The budget analysis reviews past transactions and evaluates total monthly expenses per category.  The retirement analysis projects future performance to estimate the potential portfolio value using Monte Carlo simulations. 
+The report has two parts, a budget analysis and a retirement analysis. The budget analysis reviews past transactions and evaluates total monthly expenses per category.  The retirement analysis projects future performance to estimate the potential portfolio value using Monte Carlo simulations. 
 
 ### Budget Analysis 
 
