@@ -6,7 +6,7 @@ The financial report has two parts, a budget analysis and a retirement analysis.
 
 The budget analysis includes 90 days of transactions from Plaid's Developer Sandbox. 
 
-As per the table below, the Transfer Category had the largest spend over the last 90 days and the Travel category had the least spend.   
+As per the table below, the Transfer category had the largest spend over the last 90 days and the Travel category had the least spend.   
 
 
 | Category       |   Amount |
