@@ -23,7 +23,7 @@ The pie chart below provides a visual comparison of spend per category.
 
 ![Pie Chart](/Images/PieChart_BudgetAnalysis.png)
 
-Below is a table of transactions per category, the categories with the largest spend did not have the largest number of transactions. Dissecting and grouping the data by various metrics can provide a bigger picture into spending habits that can be more useful in setting budget goals. 
+Below is a table of total transactions per category. The categories with the largest spend from the previous chart did not have the largest number of transactions. This illustrates how grouping the data by more than one metric can provide a better insight into spending habits that can be more useful in setting budget goals. 
 
 | Category       |   Number of Transactions |
 |:---------------|-------------------------:|
